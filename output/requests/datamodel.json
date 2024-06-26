@@ -1,0 +1,63 @@
+[
+    {
+        "PageType": "Cover",
+        "DepartmentName": "",
+        "Topic": "",
+        "Presenter": ""
+    },
+    {
+        "PageType": "TableOfContents",
+        "Sections": [
+            ""
+        ]
+    },
+    {
+        "PageType": "Section",
+        "SectionName": "",
+        "SubSections": [
+            ""
+        ]
+    },
+    {
+        "PageType": "Highlight",
+        "SubSectionName": "",
+        "Highlights": [
+            ""
+        ],
+        "Contents": ""
+    },
+    {
+        "PageType": "MultilevelBulletedList",
+        "SubSectionName": "",
+        "ContentsList": [
+            {
+                "topic": "",
+                "text": []
+            },
+            {
+                "topic": "",
+                "text": []
+            }
+        ]
+    },
+    {
+        "PageType": "Display",
+        "SubSectionName": "",
+        "PicturePath": "",
+        "PicTopic": "",
+        "Contents": [
+            ""
+        ]
+    },
+    {
+        "PageType": "Information",
+        "SubSectionName": "",
+        "InformationTopic": "",
+        "Information": [
+            ""
+        ]
+    },
+    {
+        "PageType": "End"
+    }
+]
